@@ -11,7 +11,7 @@
 
 ## 2. Create html file
 * creat new notepad file
-* Write some code
+* Write some [code](https://github.com/AmnahBukair/Design-robot-control-panel/blob/master/ControlPanel.html)
 * Save as >> Name.html 
 ![image](https://user-images.githubusercontent.com/66624381/88609099-f654b700-d08b-11ea-94d8-a9de08235b1e.png)
 
