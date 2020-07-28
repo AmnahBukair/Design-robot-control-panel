@@ -19,6 +19,5 @@
 After running Appache, go to google chrome and type local host follwed by your project name. 
 ![image](https://user-images.githubusercontent.com/66624381/88609377-9f031680-d08c-11ea-92c1-539793976e7c.png)
 Choose the html file.
-The Result:
-![image](https://user-images.githubusercontent.com/66624381/88609428-c0640280-d08c-11ea-8616-1fb6e5d12846.png)
+[The Result](https://github.com/AmnahBukair/Design-robot-control-panel/blob/master/The%20Final%20Result.png)
 
